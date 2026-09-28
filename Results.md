@@ -92,3 +92,6 @@ Client                         Server
   |                              |
   | <------- Response ---------- |
   |                              |
+
+<img width="233" height="148" alt="image" src="https://github.com/user-attachments/assets/26fe9213-07f6-4ff5-af60-f53dfc3e2b7d" />
+
