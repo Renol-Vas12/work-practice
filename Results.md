@@ -85,13 +85,6 @@ When you open a website:
 3. The server processes the request.
 4. The server sends the required webpage back to the browser.
 
-```text
-Client                         Server
-  |                              |
-  | ------ Request ------------> |
-  |                              |
-  | <------- Response ---------- |
-  |                              |
+<img width="722" height="1599" alt="WhatsApp Image 2026-09-28 at 6 36 00 PM" src="https://github.com/user-attachments/assets/7712b1a7-65c3-41df-a78f-180c5a0aa6a6" />
 
-<img width="233" height="148" alt="image" src="https://github.com/user-attachments/assets/26fe9213-07f6-4ff5-af60-f53dfc3e2b7d" />
 
