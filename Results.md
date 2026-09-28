@@ -85,6 +85,7 @@ When you open a website:
 3. The server processes the request.
 4. The server sends the required webpage back to the browser.
 
-<img width="722" height="1599" alt="WhatsApp Image 2026-09-28 at 6 36 00 PM" src="https://github.com/user-attachments/assets/7712b1a7-65c3-41df-a78f-180c5a0aa6a6" />
+<img width="233" height="148" alt="download" src="https://github.com/user-attachments/assets/70492b32-db14-4902-936c-4a76e1d196ff" />
+
 
 
